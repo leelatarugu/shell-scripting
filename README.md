@@ -4,4 +4,4 @@ Learning
 
 Topics are-
 
-shell
+shell scripting
