@@ -1,8 +1,5 @@
 #!/bin/bash
 
 # Comment
- ls
- cat /etc/passwd
- cat /etc/
-
-
+ls
+cat /etc/passwd
