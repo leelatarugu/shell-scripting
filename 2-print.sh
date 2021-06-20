@@ -2,7 +2,7 @@
 
 echo "hello world"
 a=$(date)
-echo -e "hi\nworld =$a"
+echo -e "hi\nworld ="$a
 
 
 
