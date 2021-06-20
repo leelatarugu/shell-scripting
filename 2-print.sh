@@ -4,6 +4,6 @@ echo "hello world"
 
 echo -e "hi\nworld"
 
-a=JUNE
+a=${date +%F}
 
 echo Date = $a
