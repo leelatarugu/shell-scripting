@@ -4,6 +4,6 @@ echo "hello world"
 
 echo -e "hi\nworld"
 
-PRESENT = JUNE
+a= JUNE
 
-echo Date = $PRESENT
+echo Date = $a
