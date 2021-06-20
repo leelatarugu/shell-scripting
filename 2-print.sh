@@ -2,4 +2,4 @@
 
 echo "hello world"
 
-echo "hi \n world"
+echo -e "hi\nworld"
