@@ -1,8 +1,9 @@
 #!/bin/bash
 
-echo "hello world"
-a=$(date)
-echo -e "hi\nworld ="$a
+echo $0 ;echo $1
+
+
+
 
 
 
